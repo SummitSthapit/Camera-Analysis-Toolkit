@@ -4,6 +4,11 @@ A scientific computing and exploratory data analysis project built using Python,
 
 This project analyzes a real-world camera specification dataset and demonstrates a complete scientific computing workflow including data loading, cleaning, statistical computation, filtering, correlation analysis, and visualization.
 
+#Dataset
+
+https://www.kaggle.com/datasets/crawford/1000-cameras-dataset
+Data was taken from a kaggle dataset
+
 # Features
 
 - CSV data loading using Pandas
